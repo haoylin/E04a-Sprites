@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/femaleAdventurer_jump.png-00e4bdfef8f75b0a8ff9e19865346683.stex"
+path="res://.import/femaleAdventurer_jump.png-bc6883efe3e34d7907c54ffa509fd5cf.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/femaleAdventurer_jump.png"
-dest_files=[ "res://.import/femaleAdventurer_jump.png-00e4bdfef8f75b0a8ff9e19865346683.stex" ]
+source_file="res://femaleAdventurer_jump.png"
+dest_files=[ "res://.import/femaleAdventurer_jump.png-bc6883efe3e34d7907c54ffa509fd5cf.stex" ]
 
 [params]
 
